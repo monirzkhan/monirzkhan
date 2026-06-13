@@ -4,7 +4,7 @@
 
 # 👨‍💻 Mohammad Moniruzzaman
 
-### 🚀 Full Stack Developer | Entrepreneur | Problem Solver
+### Full Stack Developer | Entrepreneur | Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+PostgreSQL;Linux+Enthusiast;Founder+of+Touch+%26+Greet;Future+Software+Engineer" />
 
