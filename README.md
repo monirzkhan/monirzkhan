@@ -84,8 +84,12 @@ fun_fact:
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Monirzkhan/Monirzkhan/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 ## 🎯 Current Roadmap
 
