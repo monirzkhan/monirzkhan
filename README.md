@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:8A2BE2&text=MOHAMMAD%20MONIRUZZAMAN&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:8A2BE2&text=WELCOME%20TO MY GITHUB&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 
 <p align="center">
   <img src="/assets/banner.png" width="100%" alt="Mohammad Moniruzzaman Banner">
@@ -8,7 +8,7 @@
 
 # 👨‍💻 Mohammad Moniruzzaman
 
-### Full Stack Developer | Entrepreneur | Problem Solver
+### Full Stack Web Developer | Entrepreneur | Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+PostgreSQL;Linux+Enthusiast;Founder+of+Touch+%26+Greet;Future+Software+Engineer" />
 
@@ -22,13 +22,26 @@
 name: Mohammad Moniruzzaman
 username: Monirzkhan
 location: Bangladesh 🇧🇩
-occupation: Entrepreneur & Full Stack Developer
+occupation: Entrepreneur & Full Stack Web Developer
 current_focus:
+  - JavaScript.js
   - React.js
+  - Next.js
   - PostgreSQL
   - Node.js
   - Express.js
+  - Prisma ORM
   - System Design
+
+About Me: My journey didn't begin with programming. I spent 10+ years working in visa processing, construction, government projects, international documentation, and business development. Those experiences taught me how real organizations operate, how decisions are made, and where technology can create meaningful impact.
+
+Today, I build modern web applications with JavaScript, React.js, Next.js, Node.js, Express, PostgreSQL, MongoDB and Prisma. I'm especially passionate about SaaS products, automation, and AI-powered solutions that solve real business challenges.
+
+My goal isn't just to write clean code—it's to build products that improve people's lives and scale globally.
+
+Recent Activity: 
+  - I just finished my prisma modules and build Rent Nest backend.
+  - I am now exploring Next.js with building Rent Next frontend.
 
 goal:
   Become a Professional Full Stack Engineer
@@ -39,12 +52,12 @@ fun_fact:
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Arsenal (SKILLS)
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 </p>
 
 ### Backend
@@ -56,7 +69,7 @@ fun_fact:
 ### Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
 </p>
 
 ### Dev Tools
@@ -78,6 +91,7 @@ fun_fact:
 </p>
 
 ---
+# GITHUB STATISTICS & ANALYSIS:
 
 ## 🔥 Contribution Streak
 
