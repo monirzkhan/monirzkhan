@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:8A2BE2&text=WELCOME%20TO MY GITHUB&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:8A2BE2&text=MOHAMMAD%20MONIRUZZAMAN&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" /> -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:00C9FF,100:8A2BE2" />
 
 <p align="center">
   <img src="/assets/banner.png" width="100%" alt="Mohammad Moniruzzaman Banner">
@@ -33,13 +35,13 @@ current_focus:
   - Prisma ORM
   - System Design
 
-About Me: My journey didn't begin with programming. I spent 10+ years working in visa processing, construction, government projects, international documentation, and business development. Those experiences taught me how real organizations operate, how decisions are made, and where technology can create meaningful impact.
-
-Today, I build modern web applications with JavaScript, React.js, Next.js, Node.js, Express, PostgreSQL, MongoDB and Prisma. I'm especially passionate about SaaS products, automation, and AI-powered solutions that solve real business challenges.
-
+about me: My journey didn't begin with programming. I spent 10+ years working in visa processing, construction, government projects, international documentation, and business development. 
+Those experiences taught me how real organizations operate, how decisions are made, and where technology can create meaningful impact. 
+Today, I build modern web applications with JavaScript, React.js, Next.js, Node.js, Express, PostgreSQL, MongoDB and Prisma. 
+I'm especially passionate about SaaS products, automation, and AI-powered solutions that solve real business challenges. 
 My goal isn't just to write clean code—it's to build products that improve people's lives and scale globally.
 
-Recent Activity: 
+recent activity: 
   - I just finished my prisma modules and build Rent Nest backend.
   - I am now exploring Next.js with building Rent Next frontend.
 
@@ -107,7 +109,7 @@ fun_fact:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monirzkhan/Monirzkhan/output/github-contribution-grid-snake.svg" />
 </p>
----
+
 
 ## 🎯 Current Roadmap
 
@@ -117,6 +119,7 @@ fun_fact:
 ████████░░ React
 ███████░░░ PostgreSQL
 ██████░░░░ Node.js
+█████░░░░░ Next.js
 █████░░░░░ Express.js
 ████░░░░░░ Authentication
 ██░░░░░░░░ System Design
@@ -130,9 +133,6 @@ fun_fact:
 
 Modern wedding service platform built with React.
 
-### 📇 Touch & Greet
-
-NFC Smart Business Card Solution for Professionals.
 
 ### 🗄 PostgreSQL Learning Repository
 
