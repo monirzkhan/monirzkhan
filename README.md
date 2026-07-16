@@ -35,10 +35,21 @@ current_focus:
   - Prisma ORM
   - System Design
 
-about me: My journey didn't begin with programming. I spent 10+ years working in visa processing, construction, government projects, international documentation, and business development. 
-Those experiences taught me how real organizations operate, how decisions are made, and where technology can create meaningful impact. 
+about me: My journey didn't begin with programming. 
+I spent 10+ years working in visa processing, construction, government projects, 
+international documentation, and business development. 
+
+
+Those experiences taught me how real organizations operate, how decisions are made, 
+and where technology can create meaningful impact. 
+
+
 Today, I build modern web applications with JavaScript, React.js, Next.js, Node.js, Express, PostgreSQL, MongoDB and Prisma. 
+
+
 I'm especially passionate about SaaS products, automation, and AI-powered solutions that solve real business challenges. 
+
+
 My goal isn't just to write clean code—it's to build products that improve people's lives and scale globally.
 
 recent activity: 
