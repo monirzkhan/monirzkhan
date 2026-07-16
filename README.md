@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:8A2BE2&text=MOHAMMAD%20MONIRUZZAMAN&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 
+<p align="center">
+  <img src="/assets/banner.png" width="100%" alt="Mohammad Moniruzzaman Banner">
+</p>
+
 # 👨‍💻 Mohammad Moniruzzaman
 
 ### Full Stack Developer | Entrepreneur | Problem Solver
